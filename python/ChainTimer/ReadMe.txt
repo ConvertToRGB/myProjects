@@ -1,0 +1,1 @@
+Put your *.mp3 in ChainTimer/music directory.
